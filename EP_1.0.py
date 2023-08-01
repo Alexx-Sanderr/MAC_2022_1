@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
-""" 
-      Nome do aluno: Alex Sander do Carmo Souza
-      Número USP: 12558940
+"""
       Curso: Bacharelado em Física
       Disciplina: MAC0115 Introdução à Computação
       Turma: 24 - Yoshiko
