@@ -32,7 +32,7 @@ import random
 
 def main():
     
-    seq_dada = input("Digite uma sequência de bytes:\n",)               # Solicita uma sequência de bits (1s e 0s)
+    seq_dada = input("Digite uma sequência de bits:\n",)               # Solicita uma sequência de bits (1s e 0s)
     n_testes_dados = int(input("Digite a quantidade de testes:\n",))    # Solicita um número de testes p/ a verificação de igualdade
    
     n_jogadas = 0                                                       # Soma do total de jogadas
